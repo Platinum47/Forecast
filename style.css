@@ -1,0 +1,37 @@
+.head{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(110, 110, 110);
+    height: 100px;
+    font-size:  50px;
+}
+
+.input{
+    padding-top: 60px;
+    background-color:black;
+}
+.display{
+    background-color: black;
+}
+.fiveday{
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    justify-content: space-around;
+    
+}
+.dayone , .daytwo , .daythree , .dayfour , .dayfive{
+background-color: rgb(122, 122, 122);
+height: 680px;
+width: 180px;
+padding:5px;
+}
+h3{
+    color: red;
+}
+p{
+    color: seashell;
+}
+body{
+    background-color: rgb(122, 122, 122);
+}
